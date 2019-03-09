@@ -3,6 +3,10 @@
 Hello
 
 
+<<<<<<< HEAD
 Changes for master
+=======
+Added CSS
+>>>>>>> css
 
 
