@@ -10,5 +10,10 @@ Added CSS
 >>>>>>> css
 
 
+<<<<<<< HEAD
 changes for js master
+=======
+
+Change for js
+>>>>>>> js
 
